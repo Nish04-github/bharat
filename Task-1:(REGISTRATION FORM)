@@ -15,10 +15,10 @@
              <input name="gender" type="radio" value="female"> Female </p>
   <p> COURSE: <br>
               <select name="course">
-                  <option value="aiml">BSC</option>
-                  <option value="cse">BCOM</option>
-                  <option value="ece">BCA</option>
-                  <option value="eee">BBA</option>
+                  <option value="aiml">AIML</option>
+                  <option value="cse">CSE</option>
+                  <option value="ece">ECE</option>
+                  <option value="eee">EEE</option>
              </select></p>
   <p> SPORTS: <br>
               <input name="cricket" type="checkbox" value="cricket">Cricket <br>
